@@ -1,0 +1,11 @@
+title:		"OS211"
+author:     "KentaBisma"
+urlweb:     "https://kentabisma.github.io/os211"
+urlgithub:      "https://github.com/kentabisma/os211"
+urlghpage:      "https://kentabisma.github.io/os211"
+mygithub:       "https://github.com/kentabisma"
+keywords:       "jekyll, testing"
+sitemap:        "true"
+plugins:
+    - jekyll-sitemap
+    - jekyll-seo-tag
