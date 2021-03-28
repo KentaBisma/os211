@@ -10,3 +10,5 @@ ZCZC W03 180 L06 Reading References/Books/Documents
 ZCZC W03 60 L05 GSGS related
 ZCZC W03 30 L10 Assignment (General)
 ZCZC W04 96 L06 Reading References/Books/Documents
+ZCZC W04 126 L23 Discord: discussion, etc.
+ZCZC W04 104 L10 Assignment (General)
