@@ -9,3 +9,4 @@ ZCZC W02 720 L99 Other(Modify github pages, playing with Jekyll and rb, GSGS, wa
 ZCZC W03 180 L06 Reading References/Books/Documents
 ZCZC W03 60 L05 GSGS related
 ZCZC W03 30 L10 Assignment (General)
+ZCZC W04 96 L06 Reading References/Books/Documents
