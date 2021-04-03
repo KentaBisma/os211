@@ -12,3 +12,5 @@ ZCZC W03 30 L10 Assignment (General)
 ZCZC W04 96 L06 Reading References/Books/Documents
 ZCZC W04 126 L23 Discord: discussion, etc.
 ZCZC W04 104 L10 Assignment (General)
+ZCZC W05 94 L06 Reading References/Books/Documents
+ZCZC W05 36 L04 Pages and W05.md
