@@ -109,7 +109,7 @@ img {
 .kenta-dropdown-link {
     display: block;
     height: 20px;
-    padding: 10px;
+    padding: 5px;
     background-color: rgba(255, 127, 87, 1);
     color: rgba(42, 30, 92);
 }
@@ -119,7 +119,7 @@ img {
 }
 
 .kenta-dropdown:hover .kenta-dropdown-content {
-    height: 200px;
+    height: 180px;
 }
 
 .kenta-secret {

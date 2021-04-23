@@ -15,3 +15,6 @@ ZCZC W04 104 L10 Assignment (General)
 ZCZC W05 94 L06 Reading References/Books/Documents
 ZCZC W05 36 L04 Pages and W05.md
 ZCZC W05 64 L10 Assignment (General)
+ZCZC W06 60 L06 Reading References/Books/Documents
+ZCZC W06 30 L10 Assignment (General)
+ZCZC W05 85 L04 Pages and W06.md
