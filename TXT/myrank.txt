@@ -14,3 +14,6 @@ ZCZC W04 kgtgeo
 ZCZC W05 mackarelfish
 ZCZC W05 machffud
 ZCZC W05 kevindharmawan
+ZCZC W06 kgtgeo
+ZCZC W06 kevindharmawan
+ZCZC W05 machffud
