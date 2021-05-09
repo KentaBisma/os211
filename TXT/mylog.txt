@@ -19,5 +19,7 @@ ZCZC W06 60 L06 Reading References/Books/Documents
 ZCZC W06 30 L10 Assignment (General)
 ZCZC W06 85 L04 Pages and W06.md
 ZCZC W07 90 L06 Reading References/Books/Documents
-ZCZC W06 60 L10 Assignment (General)
-ZCZC W06 72 L04 Pages and W06.md
+ZCZC W07 60 L10 Assignment (General)
+ZCZC W07 72 L04 Pages and W06.md
+ZCZC W08 137 L10 Assignment (General)
+ZCZC W08 64 L04 Pages and W06.md
